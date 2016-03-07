@@ -1,0 +1,12 @@
+{
+"name": "node-web-scrapper-rnp",
+"version": "0.0.1",
+"description": "a simple node web scrapper  based on scotch.io tutorial",
+"main": "server.js",
+"author": "rnp",
+"dependencies" : {
+  "express" : "latest",
+  "request" : "latest",
+  "cheerio" : "latest"
+}  
+}
